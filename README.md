@@ -31,5 +31,8 @@ column 'EmployeeNumber.
 
 ## Visualization
 
+_Report showing the number of employees, their levels and those either due for promotion or to be laid off_
+
+![](HR 1 pic)
 
 
