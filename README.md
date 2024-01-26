@@ -33,6 +33,16 @@ column 'EmployeeNumber.
 
 _Report showing the number of employees, their levels and those either due for promotion or to be laid off_
 
-![](/images/HR 1 pic.JPG)
+![](HR_1.JPG)
 
+_Report showing the names of the employees that are to be promoted or laid off_
+![](HR_2.JPG)
 
+_Report showing the number of employees in their different department and roles.
+![](HR_3.JPG)
+
+## Analysis 
+The report accurately measures the satisfaction of the employees and probably because incentives like promotion isn't awarded 
+even when due. The number of employees to be laid off are higher than those due for promotion which led to low job satisfaction.
+
+This report identifies the problematic area , with the goal of encouraging employees. 
