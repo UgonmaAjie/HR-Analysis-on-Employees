@@ -38,7 +38,7 @@ _Report showing the number of employees, their levels and those either due for p
 _Report showing the names of the employees that are to be promoted or laid off_
 ![](HR_2.JPG)
 
-_Report showing the number of employees in their different department and roles.
+_Report showing the number of employees in their different department and roles_
 ![](HR_3.JPG)
 
 ## Analysis 
