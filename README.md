@@ -29,4 +29,7 @@ Power BI automatically connected related tables resulting in a star schema model
 fact table of the model. The only dimension table is the 'HR employee data' table which is connected to the HR Analytics data table via the common 
 column 'EmployeeNumber.
 
+## Visualization
+
+
 
