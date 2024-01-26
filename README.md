@@ -33,6 +33,6 @@ column 'EmployeeNumber.
 
 _Report showing the number of employees, their levels and those either due for promotion or to be laid off_
 
-![](images/HR 1 pic.JPG)
+![](/images/HR 1 pic.JPG)
 
 
