@@ -19,10 +19,10 @@ The Report consists of three pages:
 
 ## Data transformation/Cleaning
 Data was efficiently cleaned and transformed with the Power Query Editor of Power BI.
-. Removing missing values 
-.Removing Duplicates 
-. Converting to different data types
-.Creating Dax measures
+- Removing missing values 
+- Removing Duplicates 
+- Converting to different data types
+- Creating Dax measures
 
 ## Data Modeling 
 Power BI automatically connected related tables resulting in a star schema model. THe 'HR Analytics data' table is the 
