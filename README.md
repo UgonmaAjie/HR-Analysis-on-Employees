@@ -4,16 +4,17 @@ The aim of this project is to exhibit my skills in analyzing and visualizing Hum
 data with user friendly navigation using Power BI.
 Data was downloaded as a csv file, and extracted into Power BI for cleaning, analysis and visualization.
 The Report consists of three pages:
-1.Home
-2. Action
-3. Detail
+
+- Home
+- Action
+- Detail
 
 ## Problem Statement
 
-To analyse and visualize employees , 
-that are due for promotion and those to be laid off
-Length of Service in organization
-Total Employee by the different levels
+- To analyse and visualize employees , 
+- Those due for promotion or to be laid off
+- Length of Service in organization
+- Total Employee by the different levels
 
 
 ## Data transformation/Cleaning
